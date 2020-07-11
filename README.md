@@ -1,5 +1,5 @@
 # git-practice
  
 Practice
-ok
+ok cool
 nice
